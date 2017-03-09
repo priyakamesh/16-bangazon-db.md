@@ -1,0 +1,22 @@
+{
+  "name": "16-bangazon-db.md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyakamesh/16-bangazon-db.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyakamesh/16-bangazon-db.md/issues"
+  },
+  "homepage": "https://github.com/priyakamesh/16-bangazon-db.md#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
