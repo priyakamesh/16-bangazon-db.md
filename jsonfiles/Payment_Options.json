@@ -1,0 +1,8 @@
+{
+  "list": [
+            {"Name" : "CHECKING ACCOUNT", "AccountNumber": "347295339220178" },
+            {"Name" : "AMAZON PAY", "AccountNumber": "5332412762752074"},
+            {"Name" : "GIFT CARD", "AccountNumber": "6011341728941040"},
+            {"Name" : "PAYING WITH A CREDIT OR DEBIT CARD", "AccountNumber": "4532396081180490"}
+          ]
+}

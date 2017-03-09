@@ -1,0 +1,14 @@
+{
+"Customers": [
+              {"Name" : "Ashley Irwin","Address" : "8785 Windfall St.", "City":"Whitehall","State": "PA","PostalCode": "18052","PhoneNumber" : "210-893-8335"},
+              {"Name" : "Billy Connolly","Address" : "1 N. Cactus Ave. ", "City":"Green Bay","State": "WI","PostalCode": "54302","PhoneNumber" : "405-564-3049"},
+              {"Name" : "Athena Perez","Address" : "711 Old York Drive", "City":"Richmond","State": "VA","PostalCode": "23223","PhoneNumber" : "423-787-8493"},
+              {"Name" : "Sorrel Brigman","Address" : "77 Winchester Lane", "City":"Coachella","State": "CA","PostalCode": "92236","PhoneNumber" : "718-415-0741"},
+              {"Name" : "Phillip Lewis","Address" : "665 Clinton Lane", "City":"Wilkes Barre","State": "PA","PostalCode": "18702","PhoneNumber" : "612-437-2664"},
+              {"Name" : "Luke Woodward","Address" : "787 Lakeview St.", "City":"Marion","State": "NC","PostalCode": "28752","PhoneNumber" : "919-308-5842"},
+              {"Name" : "Luke Schuyler","Address" : "493 Mayfair Street ", "City":"Wantagh","State": "NY","PostalCode": "11793","PhoneNumber" : "334-807-0787"},
+              {"Name" : "Micheal Tamborinino","Address" : "4 Wintergreen St.", "City":"Lansdale","State": "PA","PostalCode": "19446","PhoneNumber" : "660-785-1114"},
+              {"Name" : "Peter Garrido","Address" : "7770 SE. Logan St.", "City":"Ogden","State": "UT","PostalCode": "84404","PhoneNumber" : "620-505-4541"},
+              {"Name" : "Westley Isbell","Address" : "26 County Ave.", "City":"Bristol","State": "CT","PostalCode": "06010","PhoneNumber" : "315-854-3031"}
+            ]
+}
