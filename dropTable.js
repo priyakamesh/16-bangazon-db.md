@@ -20,7 +20,7 @@ const dropPaymentOptions = ()=>{
 const dropOrderLineItem = ()=>{
   db.run('DROP TABLE Order_Line_Items');
 };
-// dropCustomers();
+dropCustomers();
 // dropProducts();
 // dropOrders();
 // dropPaymentOptions();
